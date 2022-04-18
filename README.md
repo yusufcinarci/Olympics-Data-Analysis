@@ -1,4 +1,4 @@
-# Olimpics-Data-Analysis-with-Python
+# Olympics-Data-Analysis-with-Python
 I will examine the Data Analysis of the Olympics between 1896-2016, which we have done on Python.
 
 First of all, we define the libraries that we will use in these first four lines of code.
